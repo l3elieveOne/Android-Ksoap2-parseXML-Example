@@ -1,3 +1,9 @@
+# Introduction
+
+Example Android application demonstrating how to consume SOAP web services using kSOAP2 library and parsing XML string with listview adapter.
+
+  - kSOAP2 library 3.4.0
+
 # Install
 
 Importing Project to Android Studio

@@ -13,8 +13,7 @@ Importing Project to Android Studio.
 
 l3elieveOne@gmail.com (https://github.com/l3elieveOne)
 
-# Sponsors
-
-No sponsors yet! Will you be the first?
+# Donate
 
 PayPal : l3elieveOne@gmail.com
+

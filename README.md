@@ -1,8 +1,9 @@
 # Introduction
 
-Example Android application demonstrating how to consume SOAP web services using kSOAP2 library and parsing XML string with listview adapter.
+Example Android application demonstrating how to consume SOAP web services using kSOAP2 library and parsing XML string response.
 
   - kSOAP2 library 3.4.0
+  - Thai PTT Webservice Example
 
 # Install
 

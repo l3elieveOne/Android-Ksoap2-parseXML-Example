@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/OHM-Nattapat/AndroidStudioProjects/Ksoap2XMLparseExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/OHM-Nattapat/AndroidStudioProjects/Ksoap2XMLparseExample/app/build/intermediates/pre-dexed/debug/classes-1678d78747c0c81a92b93180a061064d681e0797.jar" />
+    </item>
+    <item
+        jar="/Users/OHM-Nattapat/AndroidStudioProjects/Ksoap2XMLparseExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/OHM-Nattapat/AndroidStudioProjects/Ksoap2XMLparseExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-a3bb4e60c23acc12e1b8918a988952935b5d6a05.jar" />
+    </item>
+    <item
+        jar="/Users/OHM-Nattapat/AndroidStudioProjects/Ksoap2XMLparseExample/app/libs/ksoap2_3.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="45fbaab416fb5cff992e662d1f7a83786f084fc3">
+        <dex dex="/Users/OHM-Nattapat/AndroidStudioProjects/Ksoap2XMLparseExample/app/build/intermediates/pre-dexed/debug/ksoap2_3.4.0-f1bdda715c4e4eb96ac78306833590fe205270b9.jar" />
+    </item>
+    <item
+        jar="/Users/OHM-Nattapat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/OHM-Nattapat/AndroidStudioProjects/Ksoap2XMLparseExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-78a5e160c2a57781b6e902cbba451191a2237c1c.jar" />
+    </item>
+    <item
+        jar="/Users/OHM-Nattapat/AndroidStudioProjects/Ksoap2XMLparseExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/OHM-Nattapat/AndroidStudioProjects/Ksoap2XMLparseExample/app/build/intermediates/pre-dexed/debug/classes-696141d956093551d750cb980da3204e8f15e93d.jar" />
+    </item>
+
+</items>

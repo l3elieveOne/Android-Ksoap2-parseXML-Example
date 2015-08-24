@@ -1,5 +1,3 @@
-# Introduction
-
 # Install
 
 Importing Project to Android Studio

@@ -1,3 +1,3 @@
-# Ksoap2-parseXML-Example
+# Donation Badges
 
-Donate
+PayPal : l3eleiveOne@gmail.com

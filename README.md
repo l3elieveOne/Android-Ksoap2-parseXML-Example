@@ -7,7 +7,7 @@ Example Android application demonstrating how to consume SOAP web services using
 
 # Install
 
-Importing Project to Android Studio
+Importing Project to Android Studio.
 
 # Maintainers
 
